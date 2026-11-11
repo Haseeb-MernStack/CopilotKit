@@ -22,14 +22,14 @@
     "@copilotkitnext/runtime": "workspace:*",
     "@copilotkitnext/shared": "workspace:*",
     "@copilotkit/voice": "workspace:*",
-    "@modelcontextprotocol/sdk": "^1.18.2",
-    "hono": "^4.11.4",
-    "next": "15.4.4",
+    "@modelcontextprotocol/sdk": "^1.32.0",
+    "hono": "^4.13.11",
+    "next": "15.5.28",
     "openai": "^5.9.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "rxjs": "^7.8.1",
-    "zod": "^3.25.75"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
